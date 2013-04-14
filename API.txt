@@ -1,0 +1,21 @@
+### Methods ###
+
+> Feeds
+	addFeed
+	rmFeed
+	editFeed
+	markFeed
+	
+> Items
+	markItem
+	flagItem
+	shareItem
+	getItem
+	
+> Auth
+	login
+	logout
+	
+> Fu!
+	getTree
+	getFuTree
